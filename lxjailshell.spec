@@ -16,7 +16,7 @@ AutoReq: no
 
 Name:          lxjailshell
 Version:       3.2
-Release:       34.kng%{?dist}
+Release:       34.kkr%{?dist}
 License:       GPL 
 Group:         Shell
 Summary:       A shell to jail a user to his home directory
